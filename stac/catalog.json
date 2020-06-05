@@ -23,10 +23,10 @@
       "url": "https://www.planet.com/disasterdata/"
     },
     {
-      "name": "Google Cloud Platform",
+      "name": "GitHub",
       "roles": ["host"],
-      "description": "Hosting is done on a GCP storage bucket owned by the Planet Disaster Data team",
-      "url": "https://storage.googleapis.com/pdd-stac/"
+      "description": "Hosting is done on in a repository on GitHub",
+      "url": "https://github.com/cholmes/sample-stac"
     }
   ],
 
@@ -69,7 +69,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://storage.googleapis.com/pdd-stac/disasters/catalog.json"
+      "href": "https://raw.githubusercontent.com/cholmes/sample-stac/master/stac/catalog.json"
     },
     { "rel": "root", "href": "catalog.json" },
     {

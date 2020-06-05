@@ -6,11 +6,9 @@
   "description": "Planet Scenes and Composites for Hurricane Harvey on Aug 31, 2017",
 
   "links": [
-    {
-      "rel": "self",
-      "href": "https://storage.googleapis.com/pdd-stac/disasters/hurricane-harvey/0831/catalog.json"
+    { 
+      "rel": "root", "href": "../../catalog.json" 
     },
-    { "rel": "root", "href": "../../catalog.json" },
     {
       "rel": "parent",
       "href": "../catalog.json"

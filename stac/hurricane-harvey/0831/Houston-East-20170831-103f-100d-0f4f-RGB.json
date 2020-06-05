@@ -41,10 +41,6 @@
   "collection":"planet-disaster-data",  
   "links": [
     {
-      "rel": "self",
-      "href": "https://storage.googleapis.com/pdd-stac/disasters/hurricane-harvey/0831/Houston-East-20170831-103f-100d-0f4f-RGB.json"
-    },
-    {
       "rel": "collection",
       "href": "../../catalog.json"
     },
